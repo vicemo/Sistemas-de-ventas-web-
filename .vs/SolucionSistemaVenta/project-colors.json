@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "824967fb-e3fc-470b-a076-8b1fe5336c7e": {
+      "ProjectGuid": "824967fb-e3fc-470b-a076-8b1fe5336c7e",
+      "DisplayName": "SistemaVenta.Entity",
+      "ColorIndex": 0
+    },
+    "537957cf-ed72-4eeb-add6-30c2c55fe52c": {
+      "ProjectGuid": "537957cf-ed72-4eeb-add6-30c2c55fe52c",
+      "DisplayName": "SistemaVenta.DAL",
+      "ColorIndex": 1
+    },
+    "9d4efbf7-e679-4aa8-84d2-ef6aae02de8b": {
+      "ProjectGuid": "9d4efbf7-e679-4aa8-84d2-ef6aae02de8b",
+      "DisplayName": "SistemaVenta.BLL",
+      "ColorIndex": 2
+    },
+    "b15d630a-f66a-4f8b-ab8c-ccc2e47a8e79": {
+      "ProjectGuid": "b15d630a-f66a-4f8b-ab8c-ccc2e47a8e79",
+      "DisplayName": "SistemaVenta.IOC",
+      "ColorIndex": 3
+    },
+    "cc44baf4-642b-43e8-bfba-680d92bcf0bc": {
+      "ProjectGuid": "cc44baf4-642b-43e8-bfba-680d92bcf0bc",
+      "DisplayName": "SistemaVenta.AplicacionWeb",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

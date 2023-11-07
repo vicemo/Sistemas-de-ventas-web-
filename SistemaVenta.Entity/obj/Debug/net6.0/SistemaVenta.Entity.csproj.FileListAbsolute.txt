@@ -1,0 +1,69 @@
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\ref\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\refint\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.Entity\obj\Debug\net6.0\ref\SistemaVenta.Entity.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "txN7EV2KpxG4sW91ryBXoj0gZkPYLeJuC2ESqDf0kt8BaZerUB8CuDmSZUKrH7U0d0FBpZIcW3KwesBCaOck+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marlon\\Desktop\\decimo semestre\\proyecto de graduacion II\\TERCERA ENTREGA PROYECTO Y PRESENTACION\\PG2 PROYECTO\\VISTACLIENTES\\VISTACLIENTES.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.20\\microsoft.aspnetcore.authentication.negotiate.6.0.20.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.20\\microsoft.aspnetcore.connections.abstractions.6.0.20.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\microsoft.extensions.features\\6.0.20\\microsoft.extensions.features.6.0.20.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\Marlon\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

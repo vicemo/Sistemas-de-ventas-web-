@@ -1,0 +1,75 @@
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\ProgramasVisual\Curso de Sistema Venta Core\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\ref\SistemaVenta.DAL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+E:\WorkSpaceAD\YOUTUBE\082_CURSO SISTEMA VENTA ASP.NET CORE\Subir\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.deps.json
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\bin\Debug\net6.0\SistemaVenta.Entity.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.csproj.CopyComplete
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\refint\SistemaVenta.DAL.dll
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\SistemaVenta.DAL.pdb
+C:\Users\Marlon\Desktop\decimo semestre\proyecto de graduacion II\TERCERA ENTREGA PROYECTO Y PRESENTACION\PG2 PROYECTO\SistemaVenta.DAL\obj\Debug\net6.0\ref\SistemaVenta.DAL.dll
